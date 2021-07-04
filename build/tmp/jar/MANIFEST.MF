@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Specification-Vendor: CSV Parser
+Specification-Title: csv_parser
+Class-Path: ./ 
+Specification-Version: 0.0.1
+Main-Class: com.tool.csv.parser.Application
+
